@@ -1,2 +1,4 @@
 C:\Users\student\Downloads\Labirintus-main\x64\Debug\CrtLib.pdb
 C:\Users\student\Downloads\Labirintus-main\CrtLib\x64\Debug\CrtLib.pdb
+C:\Users\student\Desktop\Labirintus-main\x64\Debug\CrtLib.pdb
+C:\Users\student\Desktop\Labirintus-main\CrtLib\x64\Debug\CrtLib.pdb

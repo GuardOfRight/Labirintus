@@ -1,2 +1,4 @@
 C:\Users\student\Downloads\Labirintus-main\x64\Debug\MazeGame.exe
 C:\Users\student\Downloads\Labirintus-main\x64\Debug\MazeGame.pdb
+C:\Users\student\Desktop\Labirintus-main\x64\Debug\MazeGame.exe
+C:\Users\student\Desktop\Labirintus-main\x64\Debug\MazeGame.pdb
